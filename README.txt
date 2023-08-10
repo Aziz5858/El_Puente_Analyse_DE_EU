@@ -6,3 +6,6 @@ Mit den .ipynb Datein shop_de und shop_eu werden diese Dtenquellen bereiningt un
 Die Gesamt.ipynb Datei gibt diese bereinigten Daten in einer übersichtlichen .ipnyb Datei wieder.
 Aus dieser Datei wurden dann die Diagramme erstellt und in PowerPoint eingefügt.
 Die Diagramme sid als PNG-Dateien abgespeichert.
+
+Zunächst führen Sie die shop_Eu und shop_de .ipynb aus. 
+Danach die total.ipynb Datei.
